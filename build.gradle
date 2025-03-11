@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.itechnika.example'
+version = '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+
+    implementation 'org.apache.tomcat:tomcat-catalina:9.0.102'
+}
+
+test {
+    useJUnitPlatform()
+}
