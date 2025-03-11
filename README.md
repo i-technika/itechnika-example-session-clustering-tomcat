@@ -1,5 +1,5 @@
 # itechnika-example-session-clustering-tomcat
-Session Clustering on Tomcat
+NginX + Tomcat TCP Session Clustering
 
 ### Blog  
 ***Korean***: https://d2j2logs.blogspot.com/2025/03/session-clustering-tomcat.html  
