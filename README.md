@@ -1,6 +1,15 @@
 # itechnika-example-session-clustering-tomcat
 NginX + Tomcat TCP Session Clustering
 
+***
+
+### Blog  
+***Korean***: https://d2j2logs.blogspot.com/2025/03/session-clustering-tomcat.html  
+***English***: https://d2j2logs-en.blogspot.com/2025/03/session-clustering-tomcat.html  
+***Basaha Indonesia***: https://d2j2logs-id.blogspot.com/2025/03/session-clustering-tomcat.html  
+
+***
+
 ### Included Items
 + Tomcat and NginX Configuration Files for Session Clustering  
 + Java Servlet for Session Manipulation
@@ -133,10 +142,3 @@ public class DestroySessionServlet extends HttpServlet {
     }
 }
 ```
-
-***
-
-### Blog  
-***Korean***: https://d2j2logs.blogspot.com/2025/03/session-clustering-tomcat.html  
-***English***: https://d2j2logs-en.blogspot.com/2025/03/session-clustering-tomcat.html  
-***Basaha Indonesia***: https://d2j2logs-id.blogspot.com/2025/03/session-clustering-tomcat.html  
